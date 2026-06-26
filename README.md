@@ -1,4 +1,4 @@
-# Google Workspace Developer Tools
+# Google Workspace Developer Tools - Legacy Studios 2026 Update 
 
 [![Build Status](https://github.com/googleworkspace/developer-tools/actions/workflows/test.yml/badge.svg)](https://github.com/googleworkspace/developer-tools/actions/workflows/test.yml)
 [![Release Status](https://github.com/googleworkspace/developer-tools/actions/workflows/release.yml/badge.svg)](https://github.com/googleworkspace/developer-tools/actions/workflows/release.yml)
